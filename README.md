@@ -8,6 +8,12 @@ By George Kinuthia Njoroge
 
 An application will allow a user to post a project he/she has created and get it reviewed by his/her peers.
 
+# Links
+
+Github link:https://github.com/GeorgeKinuthia77/Awwardings
+
+Live link:
+
 # Setup/Installation Requirements
 
     git clone https://github.com/GeorgeKinuthia77/Awwardings
