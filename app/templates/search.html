@@ -1,4 +1,4 @@
-{% extends 'base.html' %}
+h{% extends 'base.html' %}
 {% load static %}
 {% block title %}
 Search Results for {{ search_term }}
@@ -13,7 +13,7 @@ Search Results for {{ search_term }}
     <div class="container main-part">
      {% if projects %}
     {% for project in projects %}
-    
+
 {% include 'partials/_card.html' %}
 
 
