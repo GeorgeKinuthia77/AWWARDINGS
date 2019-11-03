@@ -1,9 +1,11 @@
 # Awwardings
 
 # Author
+
 By George Kinuthia Njoroge
 
 # Description
+
 An application will allow a user to post a project he/she has created and get it reviewed by his/her peers.
 
 # Setup/Installation Requirements
@@ -16,3 +18,15 @@ An application will allow a user to post a project he/she has created and get it
 # Known Bugs
 
 There are no issues that have not yet been resolved and incase of a bug let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place.
+# Technologies Used
+
+* Django
+* HTML & CSS(Bootstrap)
+* Javascript
+
+# Behaviour Driven Development(BDD)
+
+| Behaviour | Input | Output |
+| :---------------- | :---------------: | ------------------: |
+| to add post | click on sign up |  fill in the registration field |
+| to intract with app | click on login | fill in the field  and submit |
