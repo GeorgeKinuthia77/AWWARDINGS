@@ -12,7 +12,7 @@ An application will allow a user to post a project he/she has created and get it
 
 Github link:https://github.com/GeorgeKinuthia77/Awwardings
 
-Live link:
+Live link:https://awardings.herokuapp.com/
 
 # Setup/Installation Requirements
 
