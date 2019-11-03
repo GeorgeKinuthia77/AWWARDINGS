@@ -28,9 +28,9 @@
     />
     <link rel="title icon" href="{% static 'images/cont.jpeg' %}">
     <title>
-    
+
     {% block title %}
-    
+
     {% endblock title %}
     </title>
   </head>
@@ -55,7 +55,7 @@
       <a href="#" class="mr-4 text-white">
       <i class="fas fa-user-plus"></i> &nbsp;{{profile.name}}
       </a>
-      
+
       {% else %}
       <a href="{% url 'signup' %}" class="mr-4 text-white">
       <i class="fas fa-user-plus"></i> &nbsp; Sign up
@@ -76,15 +76,15 @@
           name="search_term"
           value={{search_term}}
         />
-      
+
       </form>
     </nav>
     <!-- Navbar ends -->
     <br />
     {% block content %}
-    
+
     {% endblock content %}
-    
+
 
     <!-- footer -->
     <footer class="mt-4 p-2">
